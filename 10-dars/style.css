@@ -1,0 +1,61 @@
+h1{
+  display: inline;
+}
+h1:nth-child(1) {
+    color: brown;
+}
+h1:nth-child(2) {
+    color: salmon;
+}
+h1:nth-child(3) {
+    color:#50ffd3
+}
+h1:nth-child(4) {
+    color:#505050
+}
+h1:nth-child(5) {
+    color: #FF0F00
+}
+h1:nth-child(6) {
+    color: #FF00FF
+}
+h1:nth-child(7) {
+    color:indigo;
+}
+h1:nth-child(8) {
+    color: gold;
+}
+h1:nth-child(9) {
+    color: blue;
+}
+
+
+
+div {
+    width: 250px;
+    height: 250px;
+    border: 15px double gold;
+}
+div {
+    width: 250px;
+    height: 250px;
+    border: 15px dotted blue;
+}
+div {
+    width: 250px;
+    height: 250px;
+    border-radius: 70%;
+   border-width: 5px 10px 15px 20px;
+   border-style: solid dashed dotted double;
+   border-color: blue red green gold;
+}
+.tashqi, .ichki {
+    border: 5px solid red;
+    display: inline-block;
+}
+.ichki{
+    padding: 5px;
+    margin: 15px;
+}
+
+    

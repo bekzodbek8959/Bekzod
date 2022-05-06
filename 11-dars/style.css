@@ -1,0 +1,39 @@
+div{
+    width: 350px;
+    height: 350px;
+    border-radius: 50%;
+    
+   
+
+    
+  
+  
+
+     
+}
+/* h1::before {
+    content: "CSS";
+    color:blue;
+}
+h1::after {
+    content: "CSS";
+    color:goldenrod;
+} */
+/* div{
+    box-shadow: -50px 10px 15px 10px rgb(255, 255, 255);
+   
+
+}
+body {
+    background-color: black;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+   
+} */
+h1{
+    text-shadow: 3px 3px 3px red;
+}
+
+
